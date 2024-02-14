@@ -1,2 +1,4 @@
 # holamundo
-Trabajoclase1
+Integrantes: 
+Nicolás Alejandro Flórez Morales
+Juan Céspedes
